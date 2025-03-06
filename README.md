@@ -1,10 +1,6 @@
 # Hi there, I'm Alok Tomar 👋
 
-![GitHub Profile Banner](https://avatars.githubusercontent.com/u/76682367?v=4)
-
-## About Me
-
-I'm a passionate developer with interests in JavaScript, TypeScript, and open-source development. I enjoy building innovative projects and contributing to the community.
+I have interests in JavaScript, TypeScript, and open-source development. I enjoy building innovative projects and contributing to the community.
 
 ## Projects
 
