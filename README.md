@@ -12,3 +12,8 @@ An AI-powered application that leverages machine learning models to provide vari
 
 ### [Food Ordering App](https://github.com/aloktomarr/food-ordering-app)
 A mobile application for ordering food from local restaurants. It features a user-friendly interface, real-time order tracking, and secure payment options.
+
+### [Url Shortner](https://github.com/aloktomarr/urlshortner)
+A simple, efficient URL shortening service built with Node.js.
+
+
