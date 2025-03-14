@@ -44,62 +44,51 @@ I have interests in JavaScript, TypeScript, and open-source development. I enjoy
 
 <br>
 
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aloktomarr&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophy" />
-</div>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aloktomarr&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="aloktomarr's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aloktomarr&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aloktomarr&theme=radical" alt="aloktomarr's streak" />
-</p>
-
-<br>
-
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> Projects
 
+### [SketchSkribble](https://github.com/aloktomarr/SketchSkribble)
+A web-based drawing application that allows users to create and share their sketches online. It includes features like different brush sizes, color palette, and saving sketches as images.
 <div align="center">
   <a href="https://github.com/aloktomarr/SketchSkribble">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aloktomarr&repo=SketchSkribble&theme=radical" alt="SketchSkribble" />
   </a>
+</div>
+
+### [Opensource_AI](https://github.com/aloktomarr/Opensource_AI)
+A Chrome extension that enhances open source contribution by providing AI-powered insights for GitHub issues.
+<div align="center">
   <a href="https://github.com/aloktomarr/Opensource_AI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aloktomarr&repo=Opensource_AI&theme=radical" alt="Opensource_AI" />
   </a>
 </div>
 
-### [SketchSkribble](https://github.com/aloktomarr/SketchSkribble)
-A web-based drawing application that allows users to create and share their sketches online. It includes features like different brush sizes, color palette, and saving sketches as images.
 
-### [Opensource_AI](https://github.com/aloktomarr/Opensource_AI)
-A Chrome extension that enhances open source contribution by providing AI-powered insights for GitHub issues.
-
+### [Food Ordering App](https://github.com/aloktomarr/FoodOrderingApp)
+A mobile application for ordering food from local restaurants. It features a user-friendly interface, real-time order tracking, and secure payment options.
 <div align="center">
   <a href="https://github.com/aloktomarr/food-ordering-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aloktomarr&repo=food-ordering-app&theme=radical" alt="Food Ordering App" />
   </a>
+  </div>
+
+
+### [Url Shortner](https://github.com/aloktomarr/urlshortner)
+A simple, efficient URL shortening service built with Node.js.
+<div align="center">
   <a href="https://github.com/aloktomarr/urlshortner">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aloktomarr&repo=urlshortner&theme=radical" alt="Url Shortner" />
   </a>
 </div>
 
-### [Food Ordering App](https://github.com/aloktomarr/FoodOrderingApp)
-A mobile application for ordering food from local restaurants. It features a user-friendly interface, real-time order tracking, and secure payment options.
 
-### [Url Shortner](https://github.com/aloktomarr/urlshortner)
-A simple, efficient URL shortening service built with Node.js.
 
+### [Video Streaming App](https://github.com/aloktomarr/VideoStreamingApp)
+A video stream application with modular React components, Firebase backend, Redux state management, TMDB API integration, Tailwind CSS for responsive design and Jest testing.
 <div align="center">
   <a href="https://github.com/aloktomarr/VideoStreamingApp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aloktomarr&repo=VideoStreamingApp&theme=radical" alt="Video Streaming App" />
   </a>
 </div>
-
-### [Video Streaming App](https://github.com/aloktomarr/VideoStreamingApp)
-A video stream application with modular React components, Firebase backend, Redux state management, TMDB API integration, Tailwind CSS for responsive design and Jest testing.
 
 <br>
 
