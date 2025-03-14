@@ -16,4 +16,5 @@ A mobile application for ordering food from local restaurants. It features a use
 ### [Url Shortner](https://github.com/aloktomarr/urlshortner)
 A simple, efficient URL shortening service built with Node.js.
 
-
+### [Video Streaming App](https://github.com/aloktomarr/VideoStreamingApp)
+A video stream application with modular React components, Firebase backend, Redux state management, TMDB API integration, Tailwind CSS for responsive design and Jest testing.
