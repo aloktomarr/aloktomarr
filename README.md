@@ -44,7 +44,6 @@ I have interests in JavaScript, TypeScript, and open-source development. I enjoy
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aloktomarr&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophy" />
@@ -87,7 +86,7 @@ A Chrome extension that enhances open source contribution by providing AI-powere
   </a>
 </div>
 
-### [Food Ordering App](https://github.com/aloktomarr/food-ordering-app)
+### [Food Ordering App](https://github.com/aloktomarr/FoodOrderingApp)
 A mobile application for ordering food from local restaurants. It features a user-friendly interface, real-time order tracking, and secure payment options.
 
 ### [Url Shortner](https://github.com/aloktomarr/urlshortner)
