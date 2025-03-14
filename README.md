@@ -19,16 +19,6 @@ I have interests in JavaScript, TypeScript, and open-source development. I enjoy
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aloktomarr&show_icons=true&theme=radical" alt="aloktomarr's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aloktomarr&theme=radical" alt="aloktomarr's streak" />
-</p>
-
 ## 🚀 Projects
 
 ### [SketchSkribble](https://github.com/aloktomarr/SketchSkribble)
@@ -74,10 +64,10 @@ A video stream application with modular React components, Firebase backend, Redu
 ## 📫 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/aloktomarr">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/your-twitter">
+  <a href="https://twitter.com/https://x.com/AlokTom19637918">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
