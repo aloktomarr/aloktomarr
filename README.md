@@ -67,7 +67,7 @@ A Chrome extension that enhances open source contribution by providing AI-powere
 A mobile application for ordering food from local restaurants. It features a user-friendly interface, real-time order tracking, and secure payment options.
 <div align="center">
   <a href="https://github.com/aloktomarr/food-ordering-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aloktomarr&repo=food-ordering-app&theme=radical" alt="Food Ordering App" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aloktomarr&repo=FoodOrderingApp&theme=radical" alt="FoodOrderingApp" />
   </a>
   </div>
 
