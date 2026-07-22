@@ -1,65 +1,69 @@
 <h1 align="center">Alok Tomar</h1>
 
 <p align="center">
-  Full-stack engineer based in Gurgaon. I build data-heavy products,<br/>
-  run <a href="https://statyx.io"><b>Statyx</b></a>, and fix bugs in the charting libraries that draw them.
-  <br/><br/>
-  <sub>React · Next.js · Node.js · TypeScript · PostgreSQL · Redis</sub>
-</p>
-
-<!-- ───────────────────────── GRAPH & STATS (top of page) ───────────────────────── -->
-
-<p align="center">
-  <img alt="Contribution graph" width="98%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=aloktomarr&bg_color=0d1117&color=34d399&line=10b981&point=34d399&area_color=064e3b&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+  Senior Full-Stack Engineer · Product Builder · Open-Source Contributor
 </p>
 
 <p align="center">
-  <img alt="GitHub stats" height="165"
-    src="https://github-readme-stats.vercel.app/api?username=aloktomarr&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=34d399&text_color=c9d1d9" />
-  <img alt="Top languages" height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aloktomarr&layout=compact&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9" />
-</p>
-
----
-
-## 🟢 Statyx — my sports analytics platform
-
-[Statyx](https://statyx.io) is a sports analytics SaaS I built and run on my own. It takes live odds,
-player props and historical trends and turns them into research dashboards that people actually pay for.
-I wrote most of it myself: the Next.js frontend, the Node backend, the Postgres and Redis layer, auth,
-Stripe billing, and all the not-so-glamorous work of wrangling data out of a dozen sports APIs.
-
-**Next.js · Node.js · PostgreSQL · Redis · Stripe · Clerk**
-&nbsp;·&nbsp; [Live site](https://statyx.io) &nbsp;·&nbsp; [Code](https://github.com/aloktomarr/oddsup)
-
----
-
-## 🌱 Open Source
-
-Most of my open-source time goes into the data-viz and diagramming ecosystem, usually fixing bugs in
-libraries I use myself:
-
-- **[Apache ECharts](https://github.com/apache/echarts)** (67k ★) — stopped the heatmap from crashing when it has no coordinate system ([#21698](https://github.com/apache/echarts/pull/21698)), and fixed stacked series getting corrupted by empty values ([#21697](https://github.com/apache/echarts/pull/21697)).
-- **[Vega-Lite](https://github.com/vega/vega-lite)** — three fixes around faceted scale ranges, discretizing legends, and line/point overlays ([#9895](https://github.com/vega/vega-lite/pull/9895), [#9894](https://github.com/vega/vega-lite/pull/9894), [#9893](https://github.com/vega/vega-lite/pull/9893)).
-- **[Mermaid](https://github.com/mermaid-js/mermaid)** — killed a duplicate-swimlane bug in event-modeling diagrams ([#7986](https://github.com/mermaid-js/mermaid/pull/7986)) and let architecture diagrams use non-ASCII titles ([#7984](https://github.com/mermaid-js/mermaid/pull/7984)).
-- **[nivo](https://github.com/plouc/nivo)** (14k ★) — fixed a React key warning in Choropleth legends ([#2845](https://github.com/plouc/nivo/pull/2845)) and made BoxPlot transitions behave when you flip the layout ([#2844](https://github.com/plouc/nivo/pull/2844)).
-- **[Turf.js](https://github.com/Turfjs/turf)** (10k ★) — taught `booleanContains` to reject an inner polygon whose edge pokes through a concave outer one ([#3104](https://github.com/Turfjs/turf/pull/3104)).
-
----
-
-## 🚀 A few other things I've built
-
-| Project | What it is | Tech |
-| --- | --- | --- |
-| **[SketchSkribble](https://github.com/aloktomarr/SketchSkribble)** | A multiplayer draw-and-guess game, all in real time. | React · Canvas · WebSockets |
-| **[Opensource_AI](https://github.com/aloktomarr/Opensource_AI)** | A Chrome extension that helps you make sense of GitHub issues and find good things to contribute to. | JavaScript · Chrome APIs |
-| **[Video Streaming App](https://github.com/aloktomarr/VideoStreamingApp)** | A Netflix-style app with browsing, search, and trailers. | React · Redux · Firebase · TMDB |
-
----
-
-<p align="center">
-  <a href="https://statyx.io"><b>Statyx</b></a> ·
+  <a href="https://statyx.io">Statyx</a> ·
   <a href="https://www.linkedin.com/in/alok-tomar-9741321b4/">LinkedIn</a> ·
   <a href="mailto:aloktomar055@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <img alt="Alok Tomar's contribution activity" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aloktomarr&bg_color=0d1117&color=8b949e&line=3fb950&point=56d364&area=true&area_color=196c2e&hide_border=true&custom_title=Engineering%20in%20public" />
+</p>
+
+I build products where **frontend architecture, backend systems, and data engineering** meet. My work is mostly TypeScript, React, Node.js, PostgreSQL, and Redis, with an emphasis on high-volume analytical interfaces, reliable data pipelines, and systems that remain understandable as they grow.
+
+I currently lead engineering for **[Statyx](https://statyx.io)** and contribute fixes upstream to the open-source visualization tools I use.
+
+## Statyx
+
+**Founder and lead engineer · [Live product](https://statyx.io) · [Source](https://github.com/aloktomarr/oddsup)**
+
+Statyx is a multi-sport analytics SaaS for researching live odds, player props, historical performance, and model-driven projections. I took it from an idea to a subscription product and continue to own the architecture and day-to-day engineering.
+
+The system includes:
+
+- data-heavy dashboards across MLB, NBA, WNBA, NFL, and football
+- scheduled ingestion and normalization across multiple sports-data providers
+- projection engines, line movement, odds comparison, and historical analytics
+- PostgreSQL-backed analytical workloads with Redis and in-memory caching
+- authentication, subscriptions, billing webhooks, affiliate flows, and protected product access
+- independently deployed Next.js and Node.js services with background jobs and graceful upstream fallbacks
+
+`Next.js` · `React` · `TypeScript` · `Node.js` · `PostgreSQL` · `Redis` · `Supabase` · `Stripe` · `Clerk`
+
+## Open Source
+
+I contribute primarily to visualization, diagramming, and geospatial libraries. The work is usually narrow and practical: reproduce a bug, understand an unfamiliar code path, add the regression case, and fix the behavior without widening the change.
+
+| Project | Work |
+| --- | --- |
+| **[Apache ECharts](https://github.com/apache/echarts)** | Heatmap rendering without a coordinate system ([#21698](https://github.com/apache/echarts/pull/21698)); empty-value handling in stacked series ([#21697](https://github.com/apache/echarts/pull/21697)) |
+| **[Vega-Lite](https://github.com/vega/vega-lite)** | Faceted data-driven scale ranges ([#9895](https://github.com/vega/vega-lite/pull/9895)); explicit symbol legends ([#9894](https://github.com/vega/vega-lite/pull/9894)); style-configured overlays ([#9893](https://github.com/vega/vega-lite/pull/9893)) |
+| **[Mermaid](https://github.com/mermaid-js/mermaid)** | Reused event-modeling swimlanes ([#7986](https://github.com/mermaid-js/mermaid/pull/7986)); non-ASCII architecture titles ([#7984](https://github.com/mermaid-js/mermaid/pull/7984)) |
+| **[nivo](https://github.com/plouc/nivo)** | Choropleth legend keys ([#2845](https://github.com/plouc/nivo/pull/2845)); BoxPlot layout transitions ([#2844](https://github.com/plouc/nivo/pull/2844)) |
+| **[Turf.js](https://github.com/Turfjs/turf)** | Correct polygon containment across concave boundaries ([#3104](https://github.com/Turfjs/turf/pull/3104)) |
+
+## Selected Projects
+
+**[SketchSkribble](https://github.com/aloktomarr/SketchSkribble)**  
+A real-time multiplayer drawing and word-guessing game built around Canvas and synchronized client state.
+
+**[Opensource_AI](https://github.com/aloktomarr/Opensource_AI)**  
+A Chrome extension for understanding GitHub issues and navigating open-source contribution workflows.
+
+**[Video Streaming App](https://github.com/aloktomarr/VideoStreamingApp)**  
+A streaming interface with content discovery, search, trailers, authentication, and centralized application state.
+
+## Engineering Focus
+
+`Product architecture` · `Data visualization` · `API design` · `PostgreSQL` · `Caching` · `Background processing` · `Performance` · `Production reliability`
+
+<p align="center">
+  <a href="https://statyx.io"><b>statyx.io</b></a> ·
+  <a href="https://github.com/aloktomarr?tab=repositories">repositories</a> ·
+  <a href="https://github.com/search?q=author%3Aaloktomarr+type%3Apr&type=pullrequests">pull requests</a>
 </p>
